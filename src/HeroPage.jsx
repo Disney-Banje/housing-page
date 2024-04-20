@@ -10,7 +10,7 @@ function HeroPage() {
                 The composition of the landscape is built on the contrast of architecture and nature, which do not oppose each other, but rather coexist harmoniously.
             </p>
             <div className="page-cover">
-                <img src="https://i.pinimg.com/564x/d9/27/26/d9272667eef87d45da7abff30961d9c8.jpg" alt="Suburb house" />
+                <img src="https://images.unsplash.com/photo-1564703048291-bcf7f001d83d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLWxpa2VkfDF8fHxlbnwwfHx8fHw%3D" alt="Suburb house" />
             </div>
         </div>
     );

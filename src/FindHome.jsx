@@ -12,10 +12,10 @@ function FindHome() {
 
         <div className="interior-design">
             <div>
-                <img src="" alt="" />
+                <img src="https://images.unsplash.com/photo-1713453076348-1dd57aa31a64?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLWxpa2VkfDh8fHxlbnwwfHx8fHw%3D" alt="Living room" />
             </div>
             <div>
-                <img src="" alt="" />
+                <img src="https://images.unsplash.com/photo-1713184359231-832519897def?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLWxpa2VkfDI5fHx8ZW58MHx8fHx8" alt="Staircase" />
             </div>
         </div>
         </>
